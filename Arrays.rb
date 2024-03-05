@@ -12,3 +12,4 @@ new_friends = Array.new
 
 new_friends[1] = "Komu"
 puts(new_friends)
+
